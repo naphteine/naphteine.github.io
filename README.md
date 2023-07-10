@@ -1,2 +1,2 @@
-# gguilt.github.io
-My personal GitHub page.
+# naphteine.github.io
+My personal GitHub page for static projects.
